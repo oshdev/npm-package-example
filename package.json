@@ -1,0 +1,8 @@
+{
+  "name": "npm-package-example",
+  "version": "1.0.0",
+  "description": "just for testing versions",
+  "main": "index.js",
+  "author": "osh",
+  "license": "MIT"
+}
