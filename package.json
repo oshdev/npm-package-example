@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/oshdev/npm-package-example/issues"
   },
-  "homepage": "https://github.com/oshdev/npm-package-example#readme"
+  "homepage": "https://github.com/oshdev/npm-package-example#readme",
+  "devDependencies": {
+    "np": "^7.5.0"
+  }
 }
